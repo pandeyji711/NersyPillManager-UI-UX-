@@ -33,7 +33,7 @@ NersyPillManager incorporates an AI prescription reader feature, allowing users 
 
 ## Feedback and Collaboration
 
-We welcome feedback and collaboration from the community to further refine and improve the UI/UX design of NersyPillManager. If you have any suggestions or would like to contribute, please feel free to [open an issue](https://github.com/pandeyji711/NersyPillManager-UI-UX/issues) or reach out to us directly.
+We welcome feedback and collaboration from the community to further refine and improve the UI/UX design of NersyPillManager. If you have any suggestions or would like to contribute, please feel free to [open an issue](https://github.com/pandeyji711/NersyPillManager-UI-UX-/issues) or reach out to us directly.
 
 ## Acknowledgements
 
